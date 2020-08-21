@@ -1,3 +1,4 @@
 {
-  "query": "18.4"
+  "version": "18.4",
+  "shouldUpdate": "true"
 }
